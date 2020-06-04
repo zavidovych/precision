@@ -1139,7 +1139,13 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s0SExvTPPs H1 {
-  text-align: right;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .cid-s0SExvTPPs H1 {
+    margin-top: 1em;
+  }
 }
 .cid-s0SGpkq1Cr {
   padding-top: 90px;
